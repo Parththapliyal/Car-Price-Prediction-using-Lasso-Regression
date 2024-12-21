@@ -54,6 +54,13 @@ This project involves predicting car prices using a **Lasso Regression** model. 
 - Encoded categorical variables like fuel type, seller type, and transmission were significant in improving the model’s performance.
 - Scatter plots indicate a strong correlation between actual and predicted car prices.
 
+Dataset (car data.xls):
+https://github.com/Parththapliyal/Car-Price-Prediction-using-Lasso-Regression/blob/main/car%20data.xls
 
+Jupyter Notebook (car predicton with lasso.ipynb):
+https://github.com/Parththapliyal/Car-Price-Prediction-using-Lasso-Regression/blob/main/car%20predicton%20with%20lasso.ipynb
+
+PDF Documentation (lasso.pdf):
+https://github.com/Parththapliyal/Car-Price-Prediction-using-Lasso-Regression/blob/main/lasso.pdf
 
 
