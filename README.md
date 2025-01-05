@@ -58,7 +58,7 @@ Dataset (car data.xls):
 https://github.com/Parththapliyal/Car-Price-Prediction-using-Lasso-Regression/blob/main/car%20data.xls
 
 Jupyter Notebook (car predicton with lasso.ipynb):
-https://github.com/Parththapliyal/Car-Price-Prediction-using-Lasso-Regression/blob/main/car%20predicton%20with%20lasso.ipynb
+https://github.com/Parththapliyal/Car-Price-Prediction-using-Lasso-Regression/blob/main/car%20predciton%20with%20lasso.ipynb
 
 PDF Documentation (lasso.pdf):
 https://github.com/Parththapliyal/Car-Price-Prediction-using-Lasso-Regression/blob/main/lasso.pdf
